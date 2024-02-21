@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">Creative worker.</h3>
+<img align= "center" alt="coding"  width="400" src=   "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsurya3345&label=Profile%20views&color=0e75b6&style=flat" alt="ramsurya3345" /> </p>
 
