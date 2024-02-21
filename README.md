@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML,CSS,Python(Kivy),Flutter**
 
 - 📫 How to reach me **ramsuryaagp18@gmail.com**
-- About me <a href="https://drive.google.com/file/d/12L6cL0FCyDe1HTkYSxVTViXbN8hwdgXk/view?usp=sharing" target="blank">My Resume</a>
+- About me <a href="https://drive.google.com/file/d/12L6cL0FCyDe1HTkYSxVTViXbN8hwdgXk/view?usp=sharing" target="_blank">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
