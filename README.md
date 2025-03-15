@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Surya R</h1>
 <h3 align="center">IT Professional || Digital Creator || Web Developer</h3>
 
-- 🔭 I’m currently working as a Junior Full Stack Developer in [BranUps](https://www.branups.com/)
-
+- 🔭 I’m currently looking for a role in CMS Development.
+  
 - 👨‍💻 All of my projects are available at [https://suryarameshkumar2002.github.io/Surya-Portfolio/](https://suryarameshkumar2002.github.io/Surya-Portfolio/)
 
 - 💬 Ask me about **CMS Development, Web Designing, WordPress, Canva, Figma, Python(Kivy), Flutter.**
